@@ -20,3 +20,15 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+.vs
+*.suo
+bin
+obj
+Bin
+Obj
+*.user
+.sonarqube
+TestResults
+nuget.config
+.github
